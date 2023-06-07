@@ -1,3 +1,3 @@
 dsdsdsds [ dsds]
 dsdsd+ sdsd
-confirm.log [abc]
+console.log [abc]
